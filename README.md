@@ -1,4 +1,4 @@
-<wpfhelper/>
+wpfhelper
 =========
 
 WPF examples
